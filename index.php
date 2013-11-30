@@ -51,7 +51,7 @@
         </style>
         <style>
             /*theme-sky*/
-            .theme-sky { background-color: #3498db; color: #fff; }
+            .theme-sky { background-color: #3b5998; color: #fff; }
             .theme-sky a { color: #85ceff; }
             .theme-sky a:hover { color: #1d73ab; }
             .theme-sky #header h1 { color: #85ceff; }

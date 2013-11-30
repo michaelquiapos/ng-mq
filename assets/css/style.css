@@ -325,11 +325,7 @@ label.error { display: block; font-size: 0.875em; padding: 0 0 10px 0; }
 .theme-emerald .button:hover { background-color: #fff; }
 .theme-emerald .separator { background-image: url(../img/sep-white.png); }
 
-<<<<<<< HEAD
 .theme-sky { background-color: #3b5998; color: #fff; }
-=======
-.theme-sky { background-color: #3498db; color: #fff; }
->>>>>>> a13472bc58987a05818656c82d18b7c430251bf2
 .theme-sky a { color: #85ceff; }
 .theme-sky a:hover { color: #1d73ab; }
 .theme-sky #header h1 { color: #85ceff; }
