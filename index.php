@@ -269,7 +269,7 @@
 						<ul class="social-links">
 							<li><a href="https://twitter.com/michaelquiapos" class="rotate" title="Twitter" target="_blank"><i class="icon-twitter-sign"></i></a></li>
 							<li><a href="https://www.facebook.com/michael.quiapos" class="rotate" title="Facebook" target="_blank"><i class="icon-facebook-sign"></i></a></li>
-							<li><a href="https://plus.google.com/+MichaelQuiapos/" class="rotate" title="Google Plus" target="_blank"><i class="icon-google-plus-sign"></i></a></li>
+							<li><a href="https://plus.google.com/+MichaelQuiapos?rel=author" class="rotate" title="Google Plus" target="_blank"><i class="icon-google-plus-sign"></i></a></li>
 							<li><a href="http://github.com/michaelquiapos" class="rotate" title="Github" target="_blank"><i class="icon-github-sign"></i></a></li>
 							<li><a href="http://linkedin.com/in/michaelquiapos" class="rotate" title="LinkedIn" target="_blank"><i class="icon-linkedin-sign"></i></a></li>
 							<li class="icon-treehouse-sign"><a href="http://teamtreehouse.com/michaelquiapos" title="Treehouse" target="_blank"></a></li>
