@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html manifest="manifest.appcache">
 	<head>
-		<title>Michael Quiapos | digital media and communication arts</title>
+		<title>Michael Quiapos | digital media and communication arts | letstalk@michaelquiapos.com</title>
         <meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="keywords" content="rwd">

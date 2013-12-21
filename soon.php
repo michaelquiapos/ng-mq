@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html manifest="manifest.appcache">
 	<head>
-		<title>Michael Quiapos | digital media and communication arts</title>
+		<title>Michael Quiapos | digital media and communication arts | letstalk@michaelquiapos.com</title>
         <meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="keywords" content="rwd">
@@ -263,13 +263,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="column two-thirds">
-<<<<<<< HEAD
-						<h1>Hello friend<span>.</span></h1>
-                        <div class="intro">I am relentlessly building this new website which will be ready in:</div>
-=======
 						<h1>As a Designer with a bigger toolbox<span>.</span></h1>
                         <div class="intro">I am relentlessly building on this new website which will be ready in:</div>
->>>>>>> a13472bc58987a05818656c82d18b7c430251bf2
 					</div>
 				</div>
 			</div>
