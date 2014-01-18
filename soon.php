@@ -318,7 +318,7 @@
         <script>
             jQuery(document).ready(function($) {
                 $("#counter").countdown({
-                    date : 'february 01, 2014',
+                    date : 'june 29, 2014',
                     leadingZero : true,
                     htmlTemplate : '<div class="counter-days">%d</div><div class="counter-more"><div class="counter-extra"><span>Days</span></div><div class="counter-extra counter-hours"><span>%h</span> Hours</div><div class="counter-extra counter-mins"><span>%i</span> Mins</div></div>',
                     onComplete : function(event) {
