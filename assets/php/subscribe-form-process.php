@@ -5,7 +5,7 @@ URL: http://www.bitrepository.com/
 */
 
 /* Setup your email address to receive emails */
-define( 'WEBMASTER_EMAIL', 'info@michaelquiapos.com' );
+define( 'WEBMASTER_EMAIL', 'letstalk@michaelquiapos.com' );
 define( 'EMAIL_SUBJECT', 'New subscription received!' );
 
 

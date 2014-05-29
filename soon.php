@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html manifest="manifest.appcache">
 	<head>
-		<title>Michael Quiapos | digital media and communication arts | letstalk@michaelquiapos.com</title>
+		<title>Michael Quiapos | designer and front-end developer | letstalk@michaelquiapos.com</title>
         <meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="keywords" content="rwd">
@@ -318,7 +318,11 @@
         <script>
             jQuery(document).ready(function($) {
                 $("#counter").countdown({
+<<<<<<< HEAD
                     date : 'june 29, 2014',
+=======
+                    date : 'february 01, 2015',
+>>>>>>> website update 29-05-2014
                     leadingZero : true,
                     htmlTemplate : '<div class="counter-days">%d</div><div class="counter-more"><div class="counter-extra"><span>Days</span></div><div class="counter-extra counter-hours"><span>%h</span> Hours</div><div class="counter-extra counter-mins"><span>%i</span> Mins</div></div>',
                     onComplete : function(event) {
