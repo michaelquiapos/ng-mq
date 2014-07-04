@@ -240,7 +240,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="column two-thirds">
-						<h1>Designer and Front-end Developer<span>.</span></h1>
+						<h1>Designer + Front End Developer<span>.</span></h1>
 						<div class="intro">I’m passionate about creating massive digital experiences for the world to consume.</div>
 						<p><a href="contact" class="button button-medium"><i class="icon-envelope-alt"></i>&nbsp;&nbsp; Get in touch</a></p>
 					</div>
