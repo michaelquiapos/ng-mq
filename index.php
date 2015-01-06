@@ -4,7 +4,7 @@
 		<title>Michael Quiapos | letstalk@michaelquiapos.com</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="keywords" content="rwd">
+		<meta name="keywords" content="design, ux, ui, interaction, interactive">
 		<meta name="description" content="As a Designer with a bigger toolbox my work in digital media extends to Front-end development">
 		<meta name="author" content="Michael Quiapos, http://michaelquiapos.com">
 		<link rel="icon" href="favicon.ico"/>
